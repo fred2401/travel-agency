@@ -1,0 +1,36 @@
+.tropical{
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 4mm;
+}
+.popular{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 4mm;
+    display: flex;
+    flex-wrap: wrap;
+}
+.location{
+    font-style: italic;
+    font-weight: bold;
+}
+.local{
+    padding-left: 5px;
+    padding-right: 5px;
+    flex-direction: row;
+}
+.local img{
+    length: 30%;
+    width: 30%;
+}
+.hinderance{
+    display: flex;
+}
+.final img{
+    length: 30%;
+    width: 30%;
+}
+.final{
+    flex-direction: row;
+}
