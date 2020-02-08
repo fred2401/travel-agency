@@ -1,0 +1,46 @@
+
+.all{
+    float: left;
+    width: 70%;
+    border: 2px solid black;
+    background-color: rgb(181, 192, 158);
+    height: 570px;
+}
+h1{
+    border: 2px solid black;
+    padding-left: 400px;
+    padding-right: 495px;
+    
+}
+.important{
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 4mm;
+}
+.sidebar{
+    width: 29%;
+    height: 100%;
+    float: right;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+}
+.unimportant{
+    font-family: monospace;
+    font-style: italic;
+    font-size: 4mm;
+}
+.topic{
+    font-style: italic;
+    font-weight: bold;
+}
+.pic img{
+    length: 100%;
+    width: 100%;
+    float: right;
+}
+pic{
+
+}
+
